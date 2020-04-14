@@ -7,3 +7,5 @@ This is an exercise for git.
 rebase
 
 squash
+
+one more commit
