@@ -5,3 +5,5 @@ This is an exercise for git.
 ## rebase and squash
 
 rebase
+
+squash
