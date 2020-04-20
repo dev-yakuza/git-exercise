@@ -13,3 +13,7 @@ rebase
 squash
 
 one more commit
+
+a
+b
+c
